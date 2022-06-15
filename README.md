@@ -1,1 +1,2 @@
 # odin-recipes
+For this project i will be creating a website that will display links to different websites with the required recipes. The site will have multiple pages for different meals such as deserts, pastas, vegan friendly, and more. Through completing this project, i will have demonstrated proficiency using the basic of html and incorporating other functionality.
