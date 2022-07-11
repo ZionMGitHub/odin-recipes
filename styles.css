@@ -1,0 +1,28 @@
+#title {
+    color: yellow;
+    background-color: blue;
+    text-align: center;
+    font-family: "Fantasy",papyrus,copperplate;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 400px;
+}
+
+.section-header{
+    font-family: "Fantasy",copperplate,papyrus;
+    font-size: 32px;
+}
+
+p,li {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+}
